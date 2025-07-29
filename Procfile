@@ -1,1 +1,1 @@
-worker: python bridge_agent.py
+web: python bridge_agent.py
