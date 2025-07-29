@@ -1,1 +1,1 @@
-web: python bridge_agent.py
+web: python main.py
